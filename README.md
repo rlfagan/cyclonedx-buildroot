@@ -1,5 +1,6 @@
 [![Build Status](https://github.com/CycloneDX/cyclonedx-buildroot/workflows/CI/badge.svg)](https://github.com/CycloneDX/cyclonedx-buildroot/actions?workflow=CI)
-[![License](https://img.shields.io/badge/license-Apache%202.0-brightgreen.svg)][License]  
+[![License](https://img.shields.io/badge/license-Apache%202.0-brightgreen.svg)][![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fcyclonedx-buildroot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fcyclonedx-buildroot?ref=badge_shield)
+[License]  
 [![Website](https://img.shields.io/badge/https://-cyclonedx.org-blue.svg)][CDX_homepage]
 [![Slack Invite](https://img.shields.io/badge/Slack-Join-blue?logo=slack&labelColor=393939)](https://cyclonedx.org/slack/invite)
 [![Group Discussion](https://img.shields.io/badge/discussion-groups.io-blue.svg)](https://groups.io/g/CycloneDX)
@@ -59,3 +60,6 @@ Permission to modify and redistribute is granted under the terms of the Apache 2
 [CDX_homepage]: https://cyclonedx.org
 [License]: https://github.com/CycloneDX/cyclonedx-buildroot/blob/main/LICENSE
 [Buildroot_homepage]: https://buildroot.org
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fcyclonedx-buildroot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fcyclonedx-buildroot?ref=badge_large)
